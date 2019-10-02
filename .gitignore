@@ -1,0 +1,4 @@
+*.mem
+*.cov
+SampleFiles/Restricted/
+SampleFiles/restricted.tar.gz
