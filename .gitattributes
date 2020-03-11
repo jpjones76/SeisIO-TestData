@@ -4,3 +4,4 @@
 *.cat binary
 *.RESP binary
 *.pz binary
+*.csv binary
